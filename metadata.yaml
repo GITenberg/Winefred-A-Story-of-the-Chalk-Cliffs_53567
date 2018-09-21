@@ -1,5 +1,5 @@
 _repo: Winefred-A-Story-of-the-Chalk-Cliffs_53567
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bundy, Edgar
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '47439'
     url: http://www.gutenberg.org/2009/agents/47439
+covers:
+- cover_type: archival
+  image_path: 53567-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53567#Winefred-A-Story-of-the-Chalk-Cliffs
 gutenberg_issued: '2016-11-21'
 gutenberg_type: Text
 identifiers:
